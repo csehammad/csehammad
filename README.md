@@ -4,7 +4,8 @@ I'm a passionate Maker and Technical Leader who enjoys helping startups and busi
 
 
 - 🔭 I’m currently working as a Technical Lead at [Point Pickup Technologies](https://www.pointpickup.com/).
-- 🌱 I’m skilled in Microsoft, Open Source and Cloud Native Technologies. 
+- 🌱 I’m skilled in Microsoft Stack,  Open Source  and Cloud Native Technologies. 
+- 🌟 I enjoy contributing to the open-source community and building innovative projects on weekends.
 - 📫 How to reach me: cse.hammad@gmail.com
 - 📖 Blog: https://hammad-ulhaq.medium.com
 - 📚 Latest Blog Posts:
