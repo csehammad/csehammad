@@ -34,4 +34,6 @@ I'm a passionate Maker and Technical Leader who enjoys helping startups and busi
 [![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=Twitter)](https://twitter.com/hammadspeaks)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/hammadabbasi/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub)](https://github.com/csehammad)
-[![Medium](https://img.shields.io/badge/-Medium-333333?style=flat&
+[![Medium](https://img.shields.io/badge/-Medium-333333?style=flat&logo=Medium)](https://hammad-ulhaq.medium.com)
+
+
