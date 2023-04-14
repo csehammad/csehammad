@@ -20,11 +20,27 @@ I'm a passionate Maker and Technical Leader who enjoys helping startups and busi
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-333333?style=flat&logo=aspdotnet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Apache Hadoop](https://img.shields.io/badge/-Apache_Hadoop-333333?style=flat&logo=apache-hadoop)
+![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-333333?style=flat&logo=apache-kafka)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
+
 
 ## 📊 GitHub Stats
 
