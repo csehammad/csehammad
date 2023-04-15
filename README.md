@@ -8,7 +8,10 @@ I'm a passionate Maker and Technical Leader who enjoys helping startups and busi
 - 🌟 I enjoy contributing to the open-source community and building innovative projects on weekends.
 - 📫 How to reach me: cse.hammad@gmail.com
 - 📖 Blog: https://hammad-ulhaq.medium.com
-- 📚 Latest Blog Posts:
+
+### 📚 Latest Blog Posts:
+
+ -  [A Practical Guide to Implement Twin Cipher Encryption: Ensuring Data Security and Compliance](https://medium.com/geekculture/a-practical-guide-to-implement-twin-cipher-encryption-ensuring-data-security-and-compliance-888cbcd884eb)
   - [ChatGPT and GPT-3: The Future of Work and Automation](https://medium.com/geekculture/chatgpt-and-gpt-3-the-future-of-work-and-automation-cb2b18f5487a)
   - [Build High Performant Microservices using gRPC and .NET 6](https://hammad-ulhaq.medium.com/build-high-performant-microservices-using-grpc-and-net-6-2a2b4568e4de)
   - [Building Multi-Tenant SaaS App for an Unknown Scale](https://hammad-ulhaq.medium.com/building-multi-tenant-saas-app-for-an-unknown-scale-1e9e9c8cfb6a)
