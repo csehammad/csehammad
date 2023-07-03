@@ -2,20 +2,30 @@
 
 I'm a passionate Maker and Technical Leader who enjoys helping startups and businesses grow by providing them with high-performance, enterprise-level solutions. With a strong background in full-stack development and cloud technologies, I'm enthusiastic about building innovative solutions that drive business growth. I have experience building startups like [FeedbackRig](https://feedbackrig.com/) and [WappGPT](https://www.wappgpt.com/), further fueling my passion for creating impactful technologies.
 
-
 - 🔭 I’m currently working as a Technical Lead at [Point Pickup Technologies](https://www.pointpickup.com/).
-- 🌱 I’m skilled in Microsoft Stack,  Open Source  and Cloud Native Technologies. 
+- 🌱 I’m skilled in Microsoft Stack, Open Source, and Cloud Native Technologies.
 - 🌟 I enjoy contributing to the open-source community and building innovative projects on weekends.
-- 📫 How to reach me: cse.hammad@gmail.com
-- 📖 Blog:  https://hammadabbasi.com/
 
+## 🤝 Connect with me
+
+- [Twitter](https://twitter.com/hammadspeaks)
+- [LinkedIn](https://www.linkedin.com/in/hammadabbasi/)
+- [GitHub](https://github.com/csehammad)
+- [Medium](https://hammadabbasi.com)
+- [WhatsApp](https://wa.me/923212947101)
+
+ 
 ### 📚 Latest Blog Posts:
 
- -  [A Practical Guide to Implement Twin Cipher Encryption: Ensuring Data Security and Compliance](https://medium.com/geekculture/a-practical-guide-to-implement-twin-cipher-encryption-ensuring-data-security-and-compliance-888cbcd884eb)
-  - [ChatGPT and GPT-3: The Future of Work and Automation](https://medium.com/geekculture/chatgpt-and-gpt-3-the-future-of-work-and-automation-cb2b18f5487a)
-  - [Build High Performant Microservices using gRPC and .NET 6](https://hammad-ulhaq.medium.com/build-high-performant-microservices-using-grpc-and-net-6-2a2b4568e4de)
-  - [Building Multi-Tenant SaaS App for an Unknown Scale](https://hammad-ulhaq.medium.com/building-multi-tenant-saas-app-for-an-unknown-scale-1e9e9c8cfb6a)
-  - [Minimal APIs in .NET 6 — A Complete Guide(Beginners + Advanced)](https://hammad-ulhaq.medium.com/minimal-apis-in-net-6-a-complete-guide-beginners-advanced-48a012b6efb2)
+- [A Practical Guide to Implement Twin Cipher Encryption: Ensuring Data Security and Compliance](https://medium.com/geekculture/a-practical-guide-to-implement-twin-cipher-encryption-ensuring-data-security-and-compliance-888cbcd884eb)
+- [ChatGPT and GPT-3: The Future of Work and Automation](https://medium.com/geekculture/chatgpt-and-gpt-3-the-future-of-work-and-automation-cb2b18f5487a)
+- [Build High Performant Microservices using gRPC and .NET 6](https://hammad-ulhaq.medium.com/build-high-performant-microservices-using-grpc-and-net-6-2a2b4568e4de)
+- [Building Multi-Tenant SaaS App for an Unknown Scale](https://hammad-ulhaq.medium.com/building-multi-tenant-saas-app-for-an-unknown-scale-1e9e9c8cfb6a)
+- [Minimal APIs in .NET 6 — A Complete Guide(Beginners + Advanced)](https://hammad-ulhaq.medium.com/minimal-apis-in-net-6-a-complete-guide-beginners-advanced-48a012b6efb2)
+
+### 📄 Resume
+
+You can find my resume [here](./resume_hammad_ul_haq.pdf).
 
 ## 🛠️ Technologies & Tools
 
@@ -43,17 +53,4 @@ I'm a passionate Maker and Technical Leader who enjoys helping startups and busi
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
-
-
-## 📊 GitHub Stats
-
-![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=csehammad&show_icons=true&theme=radical)
-
-## 🤝 Connect with me
-
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=Twitter)](https://twitter.com/hammadspeaks)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/hammadabbasi/)
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub)](https://github.com/csehammad)
-[![Medium](https://img.shields.io/badge/-Medium-333333?style=flat&logo=Medium)](https://hammad-ulhaq.medium.com)
-
 
