@@ -25,7 +25,7 @@ I'm a passionate Maker and Technical Leader who enjoys helping startups and busi
 
 ### 📄 Resume
 
-You can find my resume [here](/resume_hammad_ul_haq.pdf).
+You can find my resume [here](/resume_hammad_ul_haq.pdf?raw=true).
 
 
 ## 🛠️ Technologies & Tools
