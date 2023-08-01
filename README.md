@@ -11,8 +11,8 @@ I'm a passionate Maker and Technical Leader who enjoys helping startups and busi
 - [Twitter](https://twitter.com/hammadspeaks)
 - [LinkedIn](https://www.linkedin.com/in/hammadabbasi/)
 - [GitHub](https://github.com/csehammad)
-- [Medium](https://hammadabbasi.com)
-- [WhatsApp](https://wa.me/923212947101)
+- [Medium](https://hammadulhaq.medium.com/)
+ 
 
  
 ### 📚 Latest Blog Posts:
